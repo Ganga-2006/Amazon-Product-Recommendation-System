@@ -1,0 +1,301 @@
+product_name,category,actual_price,discount_percent,discounted_price,review_count,rating
+Cotton T-Shirt Model 001,Electronics,8068.15,47.0,4276.12,17938,3.94
+Storage Organizer Model 002,Toys,911.25,27.0,665.21,2307,3.57
+Laptop Stand Model 003,Toys,2757.58,50.0,1378.79,18998,4.11
+Water Bottle Model 004,Books,1142.67,2.0,1119.82,1913,4.06
+Phone Case Model 005,Books,1037.74,7.0,965.1,2435,3.58
+Cotton T-Shirt Model 006,Books,1055.49,49.0,538.3,19922,4.13
+Water Bottle Model 007,Books,896.24,43.0,510.86,16362,3.46
+Smart Watch Model 008,Electronics,11534.51,46.0,6228.64,24568,3.89
+Cotton T-Shirt Model 009,Toys,2016.06,52.0,967.71,12627,4.13
+Laptop Stand Model 010,Books,131.8,24.0,100.17,17927,3.87
+USB-C Cable Model 011,Toys,1362.07,9.0,1239.48,23992,3.44
+Coffee Maker Model 012,Books,472.22,58.0,198.33,19726,3.93
+Yoga Mat Model 013,Electronics,16276.06,5.0,15462.26,11582,3.8
+Wireless Headphones Model 014,Books,917.74,43.0,523.11,19673,4.31
+Phone Case Model 015,Home & Kitchen,754.91,20.0,603.93,11178,4.02
+Resistance Bands Model 016,Home & Kitchen,2971.48,1.0,2941.77,11031,3.49
+Yoga Mat Model 017,Clothing,1867.86,28.0,1344.86,252,3.76
+Bluetooth Speaker Model 018,Home & Kitchen,4082.6,33.0,2735.34,8020,3.74
+Board Game Model 019,Toys,1212.42,14.0,1042.68,5072,3.91
+Yoga Mat Model 020,Clothing,370.66,31.0,255.76,3792,4.3
+USB-C Cable Model 021,Toys,1401.75,54.0,644.8,22157,4.41
+Storage Organizer Model 022,Books,271.86,16.0,228.36,9183,3.51
+Bluetooth Speaker Model 023,Home & Kitchen,5835.18,18.0,4784.85,6986,4.0
+Notebook Set Model 024,Toys,2546.61,7.0,2368.35,2114,3.77
+Mechanical Keyboard Model 025,Books,521.33,7.0,484.84,13027,3.6
+Storage Organizer Model 026,Books,248.26,1.0,245.78,4153,3.51
+Smart Watch Model 027,Sports,4189.79,49.0,2136.79,11577,3.9
+Yoga Mat Model 028,Sports,2272.94,36.0,1454.68,24065,3.5
+Bluetooth Speaker Model 029,Clothing,600.06,15.0,510.05,8949,4.3
+Wireless Headphones Model 030,Home & Kitchen,5537.68,18.0,4540.9,13509,3.76
+Yoga Mat Model 031,Home & Kitchen,3608.19,10.0,3247.37,18401,3.61
+Portable Charger Model 032,Clothing,2370.68,2.0,2323.27,181,3.77
+Board Game Model 033,Toys,3173.89,6.0,2983.46,6000,3.64
+Water Bottle Model 034,Clothing,2237.06,47.0,1185.64,20843,3.88
+Portable Charger Model 035,Sports,1354.71,39.0,826.37,12628,3.82
+Desk Lamp Model 036,Books,1428.4,23.0,1099.87,11515,4.34
+Data Science Handbook Model 037,Books,986.08,39.0,601.51,14938,3.86
+Running Shoes Model 038,Toys,3362.25,37.0,2118.22,4239,4.31
+Laptop Stand Model 039,Books,454.74,47.0,241.01,4197,4.24
+Resistance Bands Model 040,Electronics,8547.94,34.0,5641.64,3482,4.04
+Yoga Mat Model 041,Sports,3438.35,7.0,3197.67,18457,3.87
+Portable Charger Model 042,Clothing,761.58,16.0,639.73,18438,4.25
+Board Game Model 043,Home & Kitchen,4714.76,33.0,3158.89,21159,4.05
+Running Shoes Model 044,Home & Kitchen,863.24,51.0,422.99,18066,3.61
+Yoga Mat Model 045,Toys,3490.07,27.0,2547.75,1109,3.69
+Wireless Headphones Model 046,Sports,679.59,51.0,333.0,21586,3.77
+USB-C Cable Model 047,Books,1374.89,8.0,1264.9,3912,3.22
+Data Science Handbook Model 048,Toys,2736.56,48.0,1423.01,21153,4.32
+Laptop Stand Model 049,Books,806.34,2.0,790.21,11222,3.36
+Wireless Headphones Model 050,Electronics,5092.43,11.0,4532.26,114,3.69
+Python Programming Book Model 051,Books,356.95,43.0,203.46,6365,4.01
+Bluetooth Speaker Model 052,Books,909.22,8.0,836.48,3952,3.74
+Python Programming Book Model 053,Sports,1697.35,24.0,1289.99,19640,3.86
+Water Bottle Model 054,Toys,1551.64,25.0,1163.73,11934,4.17
+Desk Lamp Model 055,Electronics,10314.16,34.0,6807.35,8570,3.57
+Desk Lamp Model 056,Clothing,3568.33,38.0,2212.36,18336,3.7
+Mechanical Keyboard Model 057,Home & Kitchen,3040.73,19.0,2462.99,1945,3.93
+Laptop Stand Model 058,Books,120.56,10.0,108.5,17730,3.61
+Notebook Set Model 059,Sports,1727.07,7.0,1606.18,3605,3.69
+Board Game Model 060,Toys,2951.62,39.0,1800.49,23009,3.65
+Coffee Maker Model 061,Home & Kitchen,978.34,51.0,479.39,1035,4.35
+Storage Organizer Model 062,Toys,1792.16,9.0,1630.87,24890,3.14
+USB-C Cable Model 063,Electronics,4612.91,5.0,4382.26,15347,3.51
+Resistance Bands Model 064,Sports,4297.07,32.0,2922.01,10774,3.67
+Python Programming Book Model 065,Electronics,6328.46,51.0,3100.95,15726,3.74
+Wireless Headphones Model 066,Electronics,3691.37,20.0,2953.1,14165,3.92
+Notebook Set Model 067,Home & Kitchen,5893.56,42.0,3418.26,12879,3.6
+Board Game Model 068,Clothing,1872.34,47.0,992.34,10424,3.59
+Water Bottle Model 069,Electronics,13287.44,17.0,11028.58,24081,4.07
+Resistance Bands Model 070,Toys,2836.9,28.0,2042.57,6656,4.07
+Yoga Mat Model 071,Home & Kitchen,434.89,2.0,426.19,208,3.34
+Data Science Handbook Model 072,Books,970.66,48.0,504.74,6578,4.06
+Mechanical Keyboard Model 073,Sports,1903.15,24.0,1446.39,22563,3.32
+Running Shoes Model 074,Books,362.63,24.0,275.6,10625,4.43
+Portable Charger Model 075,Clothing,3990.8,18.0,3272.46,1511,3.69
+Python Programming Book Model 076,Home & Kitchen,2287.46,30.0,1601.22,24078,4.23
+Phone Case Model 077,Books,857.2,25.0,642.9,14013,4.0
+Laptop Stand Model 078,Home & Kitchen,3605.86,32.0,2451.98,4438,4.53
+Running Shoes Model 079,Electronics,14317.95,34.0,9449.85,6395,3.74
+Coffee Maker Model 080,Home & Kitchen,3438.7,48.0,1788.12,23366,4.22
+Phone Case Model 081,Toys,1878.89,58.0,789.13,19754,3.92
+Coffee Maker Model 082,Toys,1470.32,6.0,1382.1,5767,3.77
+Cotton T-Shirt Model 083,Home & Kitchen,157.21,6.0,147.78,13781,3.51
+Resistance Bands Model 084,Clothing,2796.38,15.0,2376.92,6175,3.49
+Laptop Stand Model 085,Books,166.32,28.0,119.75,23322,4.11
+Yoga Mat Model 086,Electronics,11276.64,6.0,10600.04,7020,4.28
+Board Game Model 087,Books,455.97,9.0,414.93,22736,4.13
+USB-C Cable Model 088,Sports,2216.62,49.0,1130.48,20582,4.05
+Yoga Mat Model 089,Sports,3758.26,21.0,2969.03,3108,4.2
+Wireless Headphones Model 090,Home & Kitchen,4204.61,7.0,3910.29,23104,4.31
+USB-C Cable Model 091,Clothing,2237.56,35.0,1454.41,18041,3.55
+Mechanical Keyboard Model 092,Electronics,12046.09,17.0,9998.25,20976,3.6
+Coffee Maker Model 093,Home & Kitchen,4114.08,33.0,2756.43,3748,3.93
+Data Science Handbook Model 094,Toys,1473.27,0.0,1473.27,4004,3.82
+Notebook Set Model 095,Books,1302.58,58.0,547.08,22000,4.0
+Resistance Bands Model 096,Clothing,3175.25,23.0,2444.94,19468,3.65
+Notebook Set Model 097,Toys,1413.43,48.0,734.98,20125,3.93
+Water Bottle Model 098,Clothing,1754.73,24.0,1333.59,12609,4.11
+Smart Watch Model 099,Books,328.02,23.0,252.58,18182,3.45
+Mechanical Keyboard Model 100,Books,382.92,45.0,210.61,11370,4.01
+Cotton T-Shirt Model 101,Electronics,17280.18,29.0,12268.93,7820,3.86
+Storage Organizer Model 102,Sports,904.52,55.0,407.03,5562,3.25
+Storage Organizer Model 103,Sports,1011.48,51.0,495.63,9378,3.71
+Bluetooth Speaker Model 104,Sports,1232.36,18.0,1010.54,10214,3.77
+Notebook Set Model 105,Sports,2386.83,6.0,2243.62,21975,4.12
+Yoga Mat Model 106,Clothing,1130.23,53.0,531.21,1862,3.77
+Board Game Model 107,Home & Kitchen,3249.01,31.0,2241.82,4566,4.19
+Resistance Bands Model 108,Toys,548.49,58.0,230.37,3931,4.21
+Notebook Set Model 109,Toys,2891.33,37.0,1821.54,20423,3.43
+Cotton T-Shirt Model 110,Toys,2236.07,9.0,2034.82,1357,3.88
+USB-C Cable Model 111,Sports,4968.5,12.0,4372.28,21953,4.08
+Water Bottle Model 112,Sports,1765.99,7.0,1642.37,17990,3.68
+Wireless Headphones Model 113,Clothing,873.49,36.0,559.03,14593,3.51
+Portable Charger Model 114,Home & Kitchen,5952.08,54.0,2737.96,17864,4.34
+Phone Case Model 115,Books,812.51,24.0,617.51,10070,3.74
+Phone Case Model 116,Books,1034.49,26.0,765.52,22184,4.28
+Mechanical Keyboard Model 117,Electronics,15533.16,47.0,8232.57,7017,4.02
+Python Programming Book Model 118,Toys,1004.61,55.0,452.07,7696,4.25
+Coffee Maker Model 119,Sports,4406.76,59.0,1806.77,9067,4.2
+Resistance Bands Model 120,Toys,968.09,52.0,464.68,10073,4.11
+Smart Watch Model 121,Home & Kitchen,4508.2,51.0,2209.02,17497,4.0
+Laptop Stand Model 122,Clothing,1031.66,17.0,856.28,14276,3.82
+Board Game Model 123,Electronics,14415.94,20.0,11532.75,11267,3.58
+Cotton T-Shirt Model 124,Toys,612.29,9.0,557.18,14716,3.82
+Desk Lamp Model 125,Books,1265.54,53.0,594.8,6095,4.17
+Phone Case Model 126,Sports,3707.26,39.0,2261.43,8014,4.22
+Coffee Maker Model 127,Home & Kitchen,4082.75,25.0,3062.06,23412,4.11
+Laptop Stand Model 128,Home & Kitchen,3023.86,45.0,1663.12,8150,4.02
+Running Shoes Model 129,Home & Kitchen,153.03,4.0,146.91,18669,3.76
+Notebook Set Model 130,Electronics,15536.18,8.0,14293.29,13642,3.82
+Cotton T-Shirt Model 131,Home & Kitchen,4539.06,45.0,2496.48,16218,4.13
+Data Science Handbook Model 132,Sports,4954.35,5.0,4706.63,24693,3.99
+Mechanical Keyboard Model 133,Toys,2347.85,23.0,1807.84,23664,3.44
+Water Bottle Model 134,Electronics,10051.09,34.0,6633.72,9303,3.85
+Phone Case Model 135,Home & Kitchen,4985.68,25.0,3739.26,4066,4.08
+Yoga Mat Model 136,Clothing,3599.14,41.0,2123.49,20996,4.36
+Smart Watch Model 137,Sports,1178.56,29.0,836.78,679,3.53
+USB-C Cable Model 138,Books,288.57,12.0,253.94,6111,4.44
+Bluetooth Speaker Model 139,Books,1343.71,16.0,1128.72,1276,3.16
+Coffee Maker Model 140,Books,1247.73,7.0,1160.39,5253,3.98
+Board Game Model 141,Books,338.48,57.0,145.55,7248,3.99
+Storage Organizer Model 142,Sports,740.6,24.0,562.86,781,4.28
+Water Bottle Model 143,Sports,2109.59,24.0,1603.29,6776,4.27
+Laptop Stand Model 144,Books,549.0,28.0,395.28,7645,4.14
+Storage Organizer Model 145,Toys,3257.14,23.0,2508.0,4540,4.0
+Data Science Handbook Model 146,Toys,279.12,3.0,270.75,23392,3.89
+Phone Case Model 147,Electronics,13459.24,1.0,13324.65,23407,3.78
+Board Game Model 148,Toys,1947.23,22.0,1518.84,6021,3.39
+Water Bottle Model 149,Sports,730.25,52.0,350.52,12636,3.89
+Running Shoes Model 150,Clothing,1786.95,59.0,732.65,5534,4.08
+Data Science Handbook Model 151,Sports,3528.1,18.0,2893.04,15667,3.83
+Phone Case Model 152,Sports,913.21,37.0,575.32,12309,3.6
+Python Programming Book Model 153,Clothing,506.79,57.0,217.92,22104,3.76
+Phone Case Model 154,Electronics,935.41,26.0,692.2,13630,3.83
+Desk Lamp Model 155,Books,264.51,2.0,259.22,18055,3.64
+Mechanical Keyboard Model 156,Toys,784.37,34.0,517.68,12840,3.58
+Bluetooth Speaker Model 157,Home & Kitchen,4290.89,5.0,4076.35,15660,3.89
+Portable Charger Model 158,Home & Kitchen,5408.69,33.0,3623.82,21564,3.41
+Wireless Headphones Model 159,Home & Kitchen,603.0,23.0,464.31,2173,3.95
+Wireless Headphones Model 160,Toys,941.81,12.0,828.79,14077,3.76
+Running Shoes Model 161,Toys,826.26,3.0,801.47,12688,4.4
+Portable Charger Model 162,Clothing,1058.53,52.0,508.09,21235,3.91
+Notebook Set Model 163,Electronics,3535.72,32.0,2404.29,19191,4.1
+Board Game Model 164,Sports,2663.92,57.0,1145.49,6926,3.62
+Board Game Model 165,Clothing,1066.28,29.0,757.06,14949,4.3
+Python Programming Book Model 166,Books,1251.1,54.0,575.51,11404,4.61
+Running Shoes Model 167,Sports,2011.83,38.0,1247.33,15729,3.92
+Notebook Set Model 168,Electronics,8436.86,44.0,4724.64,2839,3.85
+Yoga Mat Model 169,Sports,1633.81,16.0,1372.4,4730,3.9
+Bluetooth Speaker Model 170,Home & Kitchen,2242.44,43.0,1278.19,9563,3.75
+Running Shoes Model 171,Sports,4121.6,43.0,2349.31,10987,3.75
+Mechanical Keyboard Model 172,Books,648.88,22.0,506.13,4592,3.85
+Python Programming Book Model 173,Electronics,5662.47,26.0,4190.23,15712,3.33
+Wireless Headphones Model 174,Clothing,3207.52,60.0,1283.01,17763,3.4
+Cotton T-Shirt Model 175,Books,873.03,30.0,611.12,4923,3.39
+Resistance Bands Model 176,Sports,1523.4,60.0,609.36,15725,3.49
+Running Shoes Model 177,Toys,1499.65,33.0,1004.77,1489,3.67
+Running Shoes Model 178,Sports,915.26,11.0,814.58,24980,3.56
+Cotton T-Shirt Model 179,Toys,2748.9,16.0,2309.08,15209,3.83
+Desk Lamp Model 180,Sports,433.56,50.0,216.78,22439,4.12
+Water Bottle Model 181,Sports,1178.61,5.0,1119.68,10885,3.39
+Notebook Set Model 182,Clothing,1732.75,39.0,1056.98,24824,3.91
+Resistance Bands Model 183,Toys,2816.8,5.0,2675.96,5297,3.66
+Running Shoes Model 184,Clothing,3786.43,16.0,3180.6,10074,3.91
+Running Shoes Model 185,Home & Kitchen,3889.61,2.0,3811.82,6207,4.21
+Resistance Bands Model 186,Clothing,3087.87,3.0,2995.23,3979,3.26
+Bluetooth Speaker Model 187,Toys,1114.31,26.0,824.59,10593,3.44
+Notebook Set Model 188,Home & Kitchen,3558.47,30.0,2490.93,19358,3.78
+Portable Charger Model 189,Home & Kitchen,4802.11,31.0,3313.46,9809,3.85
+Portable Charger Model 190,Clothing,3527.05,28.0,2539.48,15018,3.43
+Wireless Headphones Model 191,Books,571.6,53.0,268.65,23699,3.55
+Portable Charger Model 192,Toys,253.49,43.0,144.49,21031,4.18
+Desk Lamp Model 193,Toys,873.35,3.0,847.15,13693,3.65
+Desk Lamp Model 194,Sports,3268.91,14.0,2811.26,23200,4.36
+Bluetooth Speaker Model 195,Electronics,11635.77,27.0,8494.11,3216,3.56
+USB-C Cable Model 196,Home & Kitchen,2093.15,55.0,941.92,9513,4.5
+Python Programming Book Model 197,Electronics,2645.99,4.0,2540.15,7691,3.71
+Laptop Stand Model 198,Toys,1023.36,43.0,583.32,10551,4.34
+Smart Watch Model 199,Sports,3883.87,51.0,1903.1,18817,3.75
+Python Programming Book Model 200,Clothing,2306.29,55.0,1037.83,3882,3.97
+Smart Watch Model 201,Home & Kitchen,4143.14,42.0,2403.02,24902,3.68
+Python Programming Book Model 202,Sports,2494.64,45.0,1372.05,2070,3.98
+Resistance Bands Model 203,Toys,1763.33,30.0,1234.33,12868,4.07
+Coffee Maker Model 204,Clothing,1024.28,28.0,737.48,16156,3.79
+Phone Case Model 205,Clothing,3776.09,44.0,2114.61,4884,3.83
+Board Game Model 206,Home & Kitchen,1499.47,25.0,1124.6,9003,3.3
+Python Programming Book Model 207,Sports,4953.82,17.0,4111.67,8525,3.23
+Board Game Model 208,Books,1265.97,56.0,557.03,11227,3.91
+Coffee Maker Model 209,Clothing,2330.95,48.0,1212.09,10316,4.35
+Cotton T-Shirt Model 210,Sports,2369.84,20.0,1895.87,2624,3.5
+Storage Organizer Model 211,Home & Kitchen,1185.46,1.0,1173.61,23078,3.74
+Yoga Mat Model 212,Electronics,3050.53,51.0,1494.76,15670,4.0
+Storage Organizer Model 213,Clothing,970.6,10.0,873.54,4915,3.49
+Notebook Set Model 214,Toys,1329.91,30.0,930.94,12053,3.91
+Water Bottle Model 215,Home & Kitchen,3720.86,26.0,2753.44,21618,3.55
+Resistance Bands Model 216,Sports,1089.17,14.0,936.69,14187,4.12
+Resistance Bands Model 217,Clothing,245.8,56.0,108.15,4908,3.74
+Laptop Stand Model 218,Home & Kitchen,5121.27,33.0,3431.25,12546,3.48
+Notebook Set Model 219,Sports,1733.02,4.0,1663.7,3265,4.0
+Portable Charger Model 220,Toys,3029.53,10.0,2726.58,16418,3.48
+USB-C Cable Model 221,Sports,4939.73,14.0,4248.17,11274,3.61
+Desk Lamp Model 222,Toys,2983.09,20.0,2386.47,18283,3.56
+Laptop Stand Model 223,Electronics,17167.66,27.0,12532.39,6772,3.65
+Wireless Headphones Model 224,Electronics,5372.71,2.0,5265.26,10645,4.25
+Running Shoes Model 225,Home & Kitchen,785.7,22.0,612.85,19120,3.86
+Cotton T-Shirt Model 226,Toys,485.96,32.0,330.45,2433,4.01
+Board Game Model 227,Home & Kitchen,4618.49,1.0,4572.31,24577,3.66
+Running Shoes Model 228,Books,570.8,27.0,416.68,2577,4.01
+Desk Lamp Model 229,Electronics,17611.41,29.0,12504.1,19719,3.7
+Coffee Maker Model 230,Clothing,1183.58,25.0,887.68,4087,4.0
+Portable Charger Model 231,Books,1467.14,52.0,704.23,10083,4.16
+Water Bottle Model 232,Sports,1907.09,41.0,1125.18,11508,3.53
+Bluetooth Speaker Model 233,Electronics,10423.53,52.0,5003.29,13838,4.76
+Board Game Model 234,Sports,3624.21,45.0,1993.32,17129,4.42
+Mechanical Keyboard Model 235,Clothing,2529.82,9.0,2302.14,15130,3.71
+Portable Charger Model 236,Toys,1418.38,6.0,1333.28,10458,3.18
+Desk Lamp Model 237,Books,382.96,20.0,306.37,1127,3.67
+Running Shoes Model 238,Toys,2719.03,19.0,2202.41,17858,4.09
+Cotton T-Shirt Model 239,Electronics,1969.84,56.0,866.73,16720,3.83
+Mechanical Keyboard Model 240,Sports,451.68,36.0,289.08,11567,4.04
+Coffee Maker Model 241,Toys,1833.42,25.0,1375.07,1303,3.84
+Board Game Model 242,Books,892.11,30.0,624.48,16738,3.78
+Mechanical Keyboard Model 243,Books,837.04,59.0,343.19,7916,3.88
+Desk Lamp Model 244,Toys,376.22,7.0,349.88,12723,3.78
+Notebook Set Model 245,Electronics,2400.59,40.0,1440.35,8339,3.7
+USB-C Cable Model 246,Books,737.49,9.0,671.12,23024,4.6
+Yoga Mat Model 247,Clothing,1919.31,56.0,844.5,13778,3.99
+Resistance Bands Model 248,Books,1015.22,43.0,578.68,19978,3.45
+Portable Charger Model 249,Books,615.68,53.0,289.37,11724,3.97
+Cotton T-Shirt Model 250,Clothing,1674.98,23.0,1289.73,24938,3.89
+Data Science Handbook Model 251,Home & Kitchen,3203.58,35.0,2082.33,24759,4.18
+Yoga Mat Model 252,Sports,2661.47,27.0,1942.87,20852,3.9
+Yoga Mat Model 253,Toys,874.5,37.0,550.94,3897,3.96
+Cotton T-Shirt Model 254,Books,1085.29,25.0,813.97,17784,3.61
+Notebook Set Model 255,Home & Kitchen,4292.88,17.0,3563.09,1825,3.59
+Phone Case Model 256,Toys,1611.06,0.0,1611.06,2314,3.83
+Portable Charger Model 257,Clothing,499.22,26.0,369.42,19055,4.09
+USB-C Cable Model 258,Home & Kitchen,3053.29,10.0,2747.96,18647,3.85
+Running Shoes Model 259,Books,903.1,60.0,361.24,7817,4.06
+USB-C Cable Model 260,Sports,578.41,26.0,428.02,17438,4.21
+USB-C Cable Model 261,Toys,229.58,17.0,190.55,22208,3.59
+Laptop Stand Model 262,Sports,2628.14,14.0,2260.2,10028,4.05
+Portable Charger Model 263,Toys,1552.23,3.0,1505.66,1537,3.67
+Python Programming Book Model 264,Home & Kitchen,1937.06,28.0,1394.68,5303,3.9
+Board Game Model 265,Books,310.84,42.0,180.29,4435,4.14
+Board Game Model 266,Books,1158.51,45.0,637.18,4931,3.87
+Running Shoes Model 267,Books,935.02,11.0,832.17,9749,3.19
+Desk Lamp Model 268,Clothing,2791.2,33.0,1870.1,4927,4.58
+Cotton T-Shirt Model 269,Books,194.32,6.0,182.66,18779,4.24
+Notebook Set Model 270,Electronics,13144.91,54.0,6046.66,22297,3.55
+Board Game Model 271,Books,922.53,19.0,747.25,9504,4.03
+Storage Organizer Model 272,Electronics,9848.05,12.0,8666.28,18922,3.69
+Mechanical Keyboard Model 273,Clothing,2242.53,43.0,1278.24,2619,3.8
+Storage Organizer Model 274,Toys,2921.93,53.0,1373.31,9503,3.75
+Bluetooth Speaker Model 275,Home & Kitchen,5205.03,20.0,4164.02,19570,4.17
+Portable Charger Model 276,Electronics,17011.34,22.0,13268.85,21386,3.79
+Yoga Mat Model 277,Sports,491.98,48.0,255.83,23293,4.11
+Running Shoes Model 278,Toys,3334.16,33.0,2233.89,12436,3.74
+Bluetooth Speaker Model 279,Toys,1556.21,3.0,1509.52,21803,3.25
+Storage Organizer Model 280,Sports,1271.87,14.0,1093.81,9962,4.0
+Python Programming Book Model 281,Sports,4188.17,38.0,2596.67,13458,3.97
+Desk Lamp Model 282,Clothing,3169.57,42.0,1838.35,20176,3.96
+Phone Case Model 283,Electronics,6312.99,26.0,4671.61,15392,3.65
+Mechanical Keyboard Model 284,Clothing,1283.84,33.0,860.17,5961,4.16
+Wireless Headphones Model 285,Toys,1476.82,1.0,1462.05,11915,4.25
+Python Programming Book Model 286,Books,880.62,39.0,537.18,3967,3.83
+Wireless Headphones Model 287,Sports,614.52,52.0,294.97,8823,3.85
+Bluetooth Speaker Model 288,Toys,2336.1,20.0,1868.88,21577,3.61
+Water Bottle Model 289,Sports,2203.22,55.0,991.45,13061,3.96
+Running Shoes Model 290,Books,425.57,1.0,421.31,23030,3.2
+Yoga Mat Model 291,Home & Kitchen,3041.42,47.0,1611.95,8778,4.31
+Smart Watch Model 292,Books,691.49,13.0,601.6,16736,4.0
+Running Shoes Model 293,Clothing,1828.65,30.0,1280.06,6239,3.59
+Cotton T-Shirt Model 294,Sports,4437.68,43.0,2529.48,23060,4.11
+Portable Charger Model 295,Home & Kitchen,2607.95,51.0,1277.9,5221,3.4
+Running Shoes Model 296,Clothing,1697.52,6.0,1595.67,14077,3.74
+Storage Organizer Model 297,Clothing,1899.65,4.0,1823.66,7735,3.77
+Storage Organizer Model 298,Electronics,14775.68,28.0,10638.49,2164,3.8
+Yoga Mat Model 299,Sports,4756.07,45.0,2615.84,1518,4.21
+Desk Lamp Model 300,Books,145.01,53.0,68.15,16832,3.94
