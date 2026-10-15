@@ -1,6 +1,6 @@
-# Amazon-Product-Recommendation-System
-Product rating prediction and recommendation using Python and Linear Regression
 # Amazon Product Rating Prediction and Recommendation System
+Product rating prediction and recommendation using Python and Linear Regression
+
 
 ## Project Overview
 This project uses Machine Learning to predict product ratings and rank products based on their predicted ratings.
